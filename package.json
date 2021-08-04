@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "cefet-web-geiser",
   "version": "1.0.0",
   "description": "Um mostruário de algumas pessoas que ficam fritando seus PCs. Há uma página que mostra essas pessoas e outra com detalhes sobre o que elas andam fazendo com seus computadores.",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/antonioaads/cefet-web-geiser#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "hbs": "^4.1.2"
   }
 }
